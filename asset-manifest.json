@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API-fetching-test-REACT/static/css/main.7419919d.css",
+    "main.js": "/API-fetching-test-REACT/static/js/main.a5d95faf.js",
+    "index.html": "/API-fetching-test-REACT/index.html",
+    "main.7419919d.css.map": "/API-fetching-test-REACT/static/css/main.7419919d.css.map",
+    "main.a5d95faf.js.map": "/API-fetching-test-REACT/static/js/main.a5d95faf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7419919d.css",
+    "static/js/main.a5d95faf.js"
+  ]
+}
