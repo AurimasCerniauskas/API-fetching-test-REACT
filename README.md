@@ -10,7 +10,7 @@ _reactjs project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://aurimascerniauskas.github.io/API-fetching-test-REACT/
 
 ## Description
 
